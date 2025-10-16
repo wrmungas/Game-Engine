@@ -37,6 +37,8 @@ started programming. At the time I hardly knew what I was doing. Now I have near
 wish it had some features that C++ does like templates. I am not entirely comfortable with the immense amount of features in the C++ standard library, nor with
 a strictly object-oriented design mindset; but I am willing to dip my toes into the water, so to speak.
 
+I may implement parts of the engine first in C before upgrading them to C++. 
+
 I will use a few stylistic guidelines/conventions that I think make sense:
 
 1. Use little to no inheritance, at least in the engine components.
