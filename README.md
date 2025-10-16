@@ -1,5 +1,5 @@
-# Game-Engine
-Repository for code and design documents related to my game engine development.
+# Block Engine
+Repository for code and design documents related to my voxel game engine.
 
 For a discussion of the engine's design rationale / methodology, including the 
 goals of the engine, the organization of components, and the coding style conventions
@@ -14,5 +14,5 @@ separated, though tightly coupled. The engine will be built to one object, and t
 content code will be built to another which links with the engine to create the 
 executable for a given version of the game, including modded versions. 
 
-This repository will only contain code for the current version of the engine, except
-perhaps some barebones content code to test it with.
+This repository will contain code for the current version of the engine, along with
+perhaps some barebones 'content' code to test it with.
